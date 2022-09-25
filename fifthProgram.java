@@ -4,7 +4,8 @@ public class fifthProgram{
         int n=5;
         for(int i=0;i<=n;i++)
         {
-            System.out.println(Math.pow(i,1)+" ");
+           System.out.println(" ");
+            System.out.print(Math.pow(i,1)+" ");
             System.out.print(Math.pow(i,2)+" ");
             System.out.print(Math.pow(i,3)+" ");
             System.out.print(Math.pow(i,4)+" ");
