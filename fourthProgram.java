@@ -1,6 +1,7 @@
 public class fourthProgram {
   
     public static void main(String[] args) {
+      //When will population first exceed 150000?
         
         int currentPopulation=80000;
         int NumberOfYears=0;
