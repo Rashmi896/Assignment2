@@ -2,7 +2,9 @@
 
 public class thirdProgram {
     public static void main(String[] args) {
+        //Write a java program to print the name of the month and number of days in the month. Use Switch Case.
         int x=5;
+        
         switch (x) {
             case 1:
                 { System.out.println(" Month : January");
